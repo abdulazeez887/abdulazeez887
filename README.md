@@ -11,21 +11,10 @@
 
 
 
-
-
 - 😇 I Like Programming 
  
 - 👀 I’m interested on whatsapp bots
 
 - 🌱 I’m currently learning JAVASCRIPT
-- <h3 align="left">Connect with me:</h3><p>   <a href="https://www.instagram.com/thisal_sanujaya/" target="blank"><img align="center" src="https://telegra.ph/file/a171ac66c22c5617fe27b.png" alt="https://www.instagram.com/__.sanuwa.__/" height="40" width="40" /></a>  <a href="https://wa.me/94775153939" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5649/5649647.png" alt="https://wa.me/94775153939" height="50" width="50" /></a> 
--
-</p>
 
-
-
- <p align="center"> <a href="https://github.com/abdulazeez887"><img src="https://github-profile-trophy.vercel.app/?username=aztechsl&no-bg=true&no-frame=false&theme=algolia"></a></p>
-
-<p align="center"> <a href="https://github.com/abdulazeez887"><img  src="http://github-readme-streak-stats.herokuapp.com?user=aztechsl&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=00AEFF&fire=00AEFF&ring=00AEFF&currStreakNum=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=00AEFF&sideNums=00AEFF"></a></p>
-<p align="center"> <a href="https://github.com/abdulazeez887"><img src="https://github-readme-stats.vercel.app/api?username=AZTECHSL&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
-<p align="center"> <a href="https://github.com/abdulazeez887"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZTECHSL&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
+- 👨‍💻 I'm Deploying By ABDUL MD

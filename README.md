@@ -1,6 +1,6 @@
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://github.com/sanuwaofficial">
+    <a href="https://github.com/abdulazeez887">
         <img align="center"
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Sanuwa%20+%20Official+..."
             alt="Typing SVG"

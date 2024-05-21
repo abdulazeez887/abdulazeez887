@@ -11,17 +11,16 @@
 
 
 
-- 😇 I Like Programming 
+#### 😇 I Like Programming 
  
-- 👀 I’m interested on whatsapp bots
+#### 👀 I’m interested on whatsapp bots
 
-- 🌱 I’m currently learning JAVASCRIPT
+#### 🌱 I’m currently learning JAVASCRIPT
 
-- 👨‍💻 I'm Deploying By ABDUL MD
+#### 👨‍💻 I'm Deploying By ABDUL MD
 
-- 
 #### 🌱 I’m currently learning **Java, Node.js, HTML, CSS**
 
-#### 👨‍💻 All of my projects are available at > [Official Website](https://amdaniwasa.com) <
+#### 👨‍💻 All of my projects are available at ><button>[Official Website](https://abdulazeez887.com) <
 
 #### 💫 **I am a beginner developer. 🌆**
